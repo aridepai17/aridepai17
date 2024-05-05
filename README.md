@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **enhancing my skills in HTML & CSS**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **any projects that include Artficial Intelligence & hackathons**
 
