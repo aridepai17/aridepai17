@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ADVAITH R PAI</h1>
-<h3 align="center">A passionate aspiring Full Stack Developer</h3>
+<h3 align="center">An aspiring Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aridepai17&label=Profile%20views&color=0e75b6&style=flat" alt="aridepai17" /> </p>
 
