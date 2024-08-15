@@ -13,3 +13,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aridepai17&show_icons=true&locale=en&layout=compact" alt="aridepai17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aridepai17&theme=dark" alt="aridepai17" /></p>
+
+<div align="center">
+  <img height="200" src="https://cdn.prod.website-files.com/6407294922d711c29306b748/645f7c8f3a0d8e2c7a33a183_May%20the%20Source.jpg"  />
+</div>
+
+###
