@@ -14,8 +14,7 @@
 
 [![Advaith R Pai's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aridepai17)](https://github.com/aridepai17/github-readme-activity-graph)
 
-<div align="center">
-  <img height="200" src="https://cdn.prod.website-files.com/6407294922d711c29306b748/645f7c8f3a0d8e2c7a33a183_May%20the%20Source.jpg"  />
-</div>
+
+![juniordev](https://github.com/user-attachments/assets/bed8c102-d791-4391-b210-575a2d45dedf)
 
 ###
