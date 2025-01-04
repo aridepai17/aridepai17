@@ -30,5 +30,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/aridepai17/aridepai17/assets/juniordev.jpg" alt="Meme Image" style="width: 600px; height: auto;"/>
+  <img src="assets/juniordev.jpg" alt="Meme Image" style="width: 600px; height: auto;"/>
 </div>
