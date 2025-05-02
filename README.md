@@ -1,14 +1,10 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Advaith+R+Pai!" />
-</h1>
-
-<hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,mysql,flutter,django,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,dart,flutter,tailwindcss"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,django,mysql,mongodb,git,github,vercel" />
 </div>
 
 <br/>
