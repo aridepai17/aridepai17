@@ -2,7 +2,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java"/>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,react"/>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,dart,flutter,tailwindcss"/>
     <img src="https://skillicons.dev/icons?i=nodejs,django,mysql,mongodb,git,github,vercel" />
 </div>
