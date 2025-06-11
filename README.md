@@ -6,7 +6,9 @@
 </div>
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aridepai17&radius=16&theme=github-dark&area=true&order=5" height="250" alt="activity-graph graph" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aridepai17&radius=16&theme=github-dark&area=true&order=5" height="250" alt="activity-graph graph" />
+</div>
 
 <h2 align="center">GitHub Stats</h2>
 <div align="center">
