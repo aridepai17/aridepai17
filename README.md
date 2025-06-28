@@ -1,11 +1,11 @@
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Technical Skills</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,react"/>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,dart,flutter,tailwindcss"/>
-  <img src="https://skillicons.dev/icons?i=nodejs,django,mysql,mongodb,git,github,vercel,docker,netlify" />
-</div>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,react" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,dart,flutter,tailwindcss" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs,django,mysql,mongodb,git,github,vercel,docker,netlify" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" style="margin: 5px;" />
 
-<h2 align="center">🐍 My Contributions 🐍</h2>
+<h2 align="center"> My Contributions </h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aridepai17&radius=16&theme=github-dark&area=true&order=5" height="250" alt="activity-graph graph" />
 </div>
