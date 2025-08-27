@@ -1,8 +1,8 @@
 <h2 align="center">Technical Skills</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,react" height="40" style="margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,dart,flutter,tailwindcss" height="40" style="margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=nodejs,django,mysql,mongodb,git,github,vercel,docker,netlify" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=python,react" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwindcss" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,git,github,vercel,docker,netlify" height="40" style="margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=b" height="40" style="margin: 5px;" />
 
 <h2 align="center"> My Contributions </h2>
